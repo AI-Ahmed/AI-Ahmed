@@ -31,7 +31,7 @@ Currently, I'm working on improving my skills in ML and developing myself in MLO
   * That's why – our generation like to have something like Jarvis. 
   * The Fun fact here, Jarvis now is not a fictional character – it is now a fact.
   <p align="center"><img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/b0/JuARaVeInSy.png/revision/latest/scale-to-width-down/250?cb=20120722164138" /></p>
-- ⚙️ Wanna have a look: [My Resume](xyz)
+- ⚙️ Wanna have a look: [My Resume](https://github.com/DrStarkXavier/DrStarkXavier/blob/main/My%20Resume.pdf)
 ---
 ### **Github Stats**
 
