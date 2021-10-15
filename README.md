@@ -37,7 +37,7 @@ Currently, I'm working on improving my skills in ML and developing myself in MLO
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=DrStarkXavier&show_icons=true&theme=tokyonight)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DrStarkXavier&layout=compact&text_color=ffffff&icon_color=FF6C00&theme=tokyonight)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DrStarkXavier&layout=compact&text_color=ffffff&icon_color=FF6C00&theme=tokyonight&langs_count=10)
 
 ---
 ### My Experience
