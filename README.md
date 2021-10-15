@@ -1,4 +1,4 @@
-### Welcome to Xavier's Cave 👋
+## Welcome to Xavier's Cave 👋
 ---
 ![Python Proficiency](https://img.shields.io/badge/PYTHON-Professional-red)
 
@@ -14,7 +14,7 @@
 ![GCP Proficiency](https://img.shields.io/badge/GCP-Intermediate-GREEN)
 ![Shell Proficiency](https://img.shields.io/badge/Shell-Intermediate-yellow)
 
-#### Who Am I?
+### Who Am I?
 A seeker for in-depth work to achieve a high level in Data Science & Machine Learning. I have a certificate from DELLEMC and Professional Certificate For Python Data Science and Machine Learning From IBM.
 
 Working as a Python Data Scientist and Machine Learning makes me feel more enthusiastic and passionate about what I'm doing. Giving life of what you've created is something really generous and flourish.
@@ -33,14 +33,14 @@ Currently, I'm working on improving my skills in ML and developing myself in MLO
   <p align="center"><img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/b0/JuARaVeInSy.png/revision/latest/scale-to-width-down/250?cb=20120722164138" /></p>
 - ⚙️ Wanna have a look: [My Resume](xyz)
 ---
-#### **Github Stats**
+### **Github Stats**
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=DrStarkXavier&show_icons=true&theme=tokyonight)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DrStarkXavier&layout=compact&text_color=ffffff&icon_color=FF6C00&theme=tokyonight)
 
 ---
-#### My Experience
+### My Experience
 
 - Have Solid knowledge about how to build pipleine as Data Scientist (starting from data clearning, going throw exploratory data analysis EDA, until export model).
 
