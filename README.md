@@ -1,6 +1,8 @@
 ## Welcome to Xavier's Cave 👋
 
 ![Python Proficiency](https://img.shields.io/badge/PYTHON-Professional-red)
+![SQL Proficiency](https://img.shields.io/badge/SQL-Professional-red)
+
 
 [![IBM Data Scientist](https://img.shields.io/badge/IBM%20DS-Professional-blue)](https://credentials.edx.org/credentials/7a4b5b0484054419832be81568f80ce8/)
 [![Google Cloud professional ML](https://img.shields.io/badge/GCP%20ML-Professional-blue)](https://googlecourses.qwiklabs.com/public_profiles/9dab7717-aa8c-4e17-8d31-0580a4c33efd)
