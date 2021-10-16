@@ -7,8 +7,8 @@
 
 
 ![Data Science proficiency](https://img.shields.io/badge/Data%20Science-Professional-red)
-![ML Proficiency](https://img.shields.io/badge/Machine%20Learning-Professional-red)
-![DL Proficiency](https://img.shields.io/badge/Deep%20Learning-Intermediate-GREEN)
+![ML Proficiency](https://img.shields.io/badge/Machine%20Learning-Advanced-orange)
+![DL Proficiency](https://img.shields.io/badge/Deep%20Learning-Advanced-orange)
 
 
 ![GCP Proficiency](https://img.shields.io/badge/GCP-Intermediate-GREEN)
