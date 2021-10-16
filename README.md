@@ -22,7 +22,7 @@ Working as a Python Data Scientist and Machine Learning makes me feel more enthu
 Currently, I'm working on improving my skills in ML and developing myself in MLOps methodology.
 
 
-- 🔭 I’m currently working on Developing myself to build custom estimators.
+- 🔭 I’m currently working on Developing myself to build custom estimators & Embedders.
 - 🌱 I’m currently learning more about Feature Engineering & custom estimators.
 - 💬 Ask me about ML ethics and how to start building your vision into a machine.
 - 📫 How to reach me: Join my journey on [LinkedIn](https://www.linkedin.com/in/drxavier997/).
