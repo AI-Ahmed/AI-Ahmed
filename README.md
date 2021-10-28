@@ -9,9 +9,9 @@
 [![Google Cloud professional ML](https://img.shields.io/badge/GCP%20ML-Professional-blue)](https://googlecourses.qwiklabs.com/public_profiles/9dab7717-aa8c-4e17-8d31-0580a4c33efd)
 
 
-![Data Science proficiency](https://img.shields.io/badge/Data%20Science-Professional-red)
-![ML Proficiency](https://img.shields.io/badge/Machine%20Learning-Advanced-orange)
-![DL Proficiency](https://img.shields.io/badge/Deep%20Learning-Advanced-orange)
+![Data Science proficiency](https://img.shields.io/badge/Data%20Science--Advanced-orange)
+![ML Proficiency](https://img.shields.io/badge/Machine%20Learning-Professional)
+![DL Proficiency](https://img.shields.io/badge/Deep%20LearningProfessional-red)
 
 
 ![GCP Proficiency](https://img.shields.io/badge/GCP-Intermediate-GREEN)
