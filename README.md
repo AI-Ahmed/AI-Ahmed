@@ -18,15 +18,12 @@
 ![Shell Proficiency](https://img.shields.io/badge/Shell-Intermediate-yellow)
 
 ## Who Am I?
-A seeker for in-depth work to achieve a high level in Data Science & Machine Learning. I have a certificate from DELLEMC and Professional Certificate For Python Data Science and Machine Learning From IBM.
+I'm a Machine Learning Engineer who is converting the real world problems into an orchestrated, fully-designed, and scaled machine learning system to help for better flexible life.
 
-Working as a Python Data Scientist and Machine Learning makes me feel more enthusiastic and passionate about what I'm doing. Giving life of what you've created is something really generous and flourish.
+Also, I am a Certified Professional Machine learning Engineer from Google Cloud & Certified Data Scientist from IBM in which bring the industrial experience of the best two companies in AI & ML.
 
-Currently, I'm working on improving my skills in ML and developing myself in MLOps methodology.
-
-
-- 🔭 I’m currently working on Developing myself to build custom estimators & Embedders.
-- 🌱 I’m currently learning more about Feature Engineering & custom estimators.
+- 🔭 I’m currently working on Developing myself in Designing & Developing orchestration systems.
+- 🌱 I’m currently learning more about Statistics & Computational thinking & System Design.
 - 💬 Ask me about ML ethics and how to start building your vision into a machine.
 - 📫 How to reach me: Join my journey on [LinkedIn](https://www.linkedin.com/in/drxavier997/).
 - ⚡ Fun fact: 
