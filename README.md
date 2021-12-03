@@ -42,15 +42,22 @@ Also, I am a Certified Professional Machine learning Engineer from Google Cloud 
 ---
 ## My Experience
 
-- Have Solid knowledge about how to build pipleine as Data Scientist (starting from data clearning, going throw exploratory data analysis EDA, until export model).
+- Have Solid knowledge about how to build pipelines as Data Scientist (starting from data cleaning, going throw exploratory data analysis EDA, until export model).
 
-- How to build a pipeline as Machine learning Engineer (starting from data pre-processing, feature engineering, hyper-parameter tuning and cross-validuation, until reaching deploying model).
+- How to build a pipeline as Machine Learning Engineer (starting from data pre-processing, feature engineering, hyper-parameter tuning and
+cross-validation, until serving the model) using Tools like TFX, Kubeflow, Apache Beams, and Airflow.
 
-- Know how to write models' prototypes in jupyter.
+- How to convert business requirements into CI.
 
 - Capable build advanced and explainable models that predict and forecast outcomes.
 
-- Know how to build deployed models that build to production.
+- Capable build advanced and explainable models that predict and forecast outcomes using orchestration artefacts for CT.
+
+- Capable of framing & architecting any ML problem.
+
+- ML code is 5% of any project. Hence, all the focus will be on monitor & measure for optimizing the performance of our model.
+
+- The deployment process will not be efficient if there is no solid research behind it. So, I'm capable create a sophisticated technical report that emphasizes the workflow behind the development process.
 
 - Have the ability to deliver actionable business insights and incubate innovative ways of solving problems and founding solutions.
 
