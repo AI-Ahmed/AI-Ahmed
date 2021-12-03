@@ -18,9 +18,9 @@
 ![Shell Proficiency](https://img.shields.io/badge/Shell-Intermediate-yellow)
 
 ## Who Am I?
-I'm a Machine Learning Engineer who is converting the real world problems into an orchestrated, fully-designed, and scaled machine learning system to help for better flexible life.
+I'm a Machine Learning Engineer who's working on real-world problems with an orchestrated, fully designed, and scaled machine learning system to help better flexible life.
 
-Also, I am a Certified Professional Machine learning Engineer from Google Cloud & Certified Data Scientist from IBM in which bring the industrial experience of the best two companies in AI & ML.
+Also, I am a Certified Professional Machine learning Engineer from Google Cloud & Certified Data Scientist from IBM – working for bringing the industrial experience of the best two companies in AI & ML. These certificates help me have a vision and better decisions in building and orchestrating ML systems.
 
 - 🔭 I’m currently working on Developing myself in Designing & Developing orchestration systems.
 - 🌱 I’m currently learning more about Statistics & Computational thinking & System Design.
