@@ -25,7 +25,7 @@ Also, I am a Certified Professional Machine learning Engineer from Google Cloud 
 - 🔭 I’m currently working on Developing myself in Designing & Developing orchestration systems.
 - 🌱 I’m currently learning more about Statistics & Computational thinking & System Design.
 - 💬 Ask me about ML ethics and how to start building your vision into a machine.
-- 📫 How to reach me: Join my journey on [LinkedIn](https://www.linkedin.com/in/drxavier997/).
+- 📫 How to reach me: Join my journey on [LinkedIn](https://www.linkedin.com/in/ai-ahmed/).
 - ⚡ Fun fact: 
   * Who doesn't like Ironman!! If you do, you must like how Jarvis corporate everything 😄.
   * That's why – our generation like to have something like Jarvis. 
