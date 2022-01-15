@@ -32,6 +32,7 @@ Also, I am a Certified Professional Machine learning Engineer from Google Cloud 
   * The Fun fact here, Jarvis now is not a fictional character – it is now a fact.
   <p align="center"><img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/b0/JuARaVeInSy.png/revision/latest/scale-to-width-down/250?cb=20120722164138" /></p>
 - ⚙️ Wanna have a look: [My Resume](https://github.com/AI-Ahmed/AI-Ahmed/blob/main/Resume.pdf)
+- 📚 Kaggle Profile: [My Kaggle Profile](https://www.kaggle.com/dsxavier)
 ---
 ## **Github Stats**
 
