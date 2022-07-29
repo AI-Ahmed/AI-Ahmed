@@ -22,7 +22,7 @@ I'm a AI Engineer who's working on real-world problems with an orchestrated, ful
 
 Also, I am Professional Machine learning Engineer from Google Cloud & Certified Data Scientist from IBM – working for bringing the industrial experience of the best two companies in AI & ML. These certificates help me have a vision and better decisions in building and orchestrating ML systems.
 
-- 🔭 I’m currently working on Developing myself in Designing & Developing orchestration systems.
+- 🔭 I’m currently working on Control Theory and decision making in AI.
 - 🌱 I’m currently learning more about Statistics & Computational thinking & System Design.
 - 💬 Ask me about ML ethics and how to start building your vision into a machine.
 - 📫 How to reach me: Join my journey on [LinkedIn](https://www.linkedin.com/in/ai-ahmed/).
