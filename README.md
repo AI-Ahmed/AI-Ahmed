@@ -24,7 +24,7 @@ Also, I am Professional Machine learning Engineer from Google Cloud & Certified 
 
 - 🔭 I’m currently working on Control Theory and decision making in AI.
 - 🌱 I’m currently learning more about Statistics & Computational thinking & System Design.
-- 💬 Ask me about ML ethics and how to start building your vision into a machine.
+- 💬 Ask me about AI ethics and how to start building your vision into a machine.
 - 📫 How to reach me: Join my journey on [LinkedIn](https://www.linkedin.com/in/ai-ahmed/).
 - ⚡ Fun fact: 
   * Who doesn't like Ironman!! If you do, you must like how Jarvis corporate everything 😄.
@@ -54,17 +54,15 @@ cross-validation, until serving the model) using Tools like TFX, Kubeflow, Apach
 
 - Capable build advanced and explainable models that predict and forecast outcomes using orchestration artefacts for CT.
 
-- Capable of framing & architecting any ML problem.
+- Capable of framing & architecting any AI problem.
 
-- ML code is 5% of any project. Hence, all the focus will be on monitor & measure for optimizing the performance of our model.
+- AI code is 5% of any project. Hence, all the focus will be on monitor & measure for optimizing the performance of our model.
 
 - The deployment process will not be efficient if there is no solid research behind it. So, I'm capable create a sophisticated technical report that emphasizes the workflow behind the development process.
 
 - Have the ability to deliver actionable business insights and incubate innovative ways of solving problems and founding solutions.
 
-- The deployment process will not be efficient if there is no solid research behind it. So, I'm capable create a sophisticated technical report that emphasizes the workflow behind the development process.
-
-- The main goal is to finish what you start: "clients do not relate to reasons, they relate to actions.
+- The main goal is to finish what you start: "clients do not relate to reasons, they relate to actions".
 
 - Discipline, persistence, well-adapted are keys for a successful person; that's why – I make them my big picture.
 
