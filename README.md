@@ -12,6 +12,7 @@
 [![Data Science proficiency](https://img.shields.io/badge/Data%20Science-Professional-red)](https://credentials.edx.org/credentials/7a4b5b0484054419832be81568f80ce8/)
 ![ML Proficiency](https://img.shields.io/badge/Machine%20Learning-Professional-red)
 ![DL Proficiency](https://img.shields.io/badge/Deep%20Learning-Professional-red)
+![RL Proficiency](https://img.shields.io/badge/Reinforcement%20Learning-Professional-red)
 
 
 ![GCP Proficiency](https://img.shields.io/badge/GCP-Intermediate-GREEN)
