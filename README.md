@@ -1,70 +1,88 @@
 # Welcome to Ahmed's Cave 👋
+[![](https://visitor-badge.laobi.icu/badge?page_id=AI-Ahmed.AI-Ahmed)](https://visitor-badge.laobi.icu/badge?page_id=AI-Ahmed.AI-Ahmed)
+![GitHub followers](https://img.shields.io/github/followers/AI-Ahmed?label=Follow&style=social)
+[![](https://img.shields.io/github/stars/AI-Ahmed?color=fefb7b&logo=Undertale)](https://github-readme-stats.vercel.app/api?username=AI-Ahmed&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
+
+[![Linkedin: AI-Ahmed](https://img.shields.io/badge/-Ahmed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ai-ahmed/)](https://www.linkedin.com/in/ai-ahmed/)
+[![Discord: AI-Ahmed](https://img.shields.io/badge/-Ahmed-black?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/users/AI-Ahmed#7279)](https://discord.com/users/AI-Ahmed#7279)
+
+<a href="https://github.com/AI-Ahmed/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=14473118&textfill=black&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A">
+</a>
+</p>
+
+## Who Am I?
+
+I'm an enthusiastic AI and Quantitative Researcher passionate about implementing machine learning in finance. I love how AI can transform complex data into meaningful insights and predictive charts that help shape the future.
+
+- 🤖 Passionate about AI and its potential to revolutionize industries.
+- 📈 Avid quantitative researcher who enjoys using ML to decode financial markets.
+- 💡 Believer in the power of data and charts to forecast trends and inform decisions.
+- 🌟 Always curious and eager to learn about new advancements in AI and finance.
+- 🎨 Enjoy combining creativity with technology to solve real-world problems.
+
+---
 
 ## Skills
-![Python Proficiency](https://img.shields.io/badge/PYTHON-Professional-red)
-![SQL Proficiency](https://img.shields.io/badge/SQL-Professional-red)
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="40"/></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
+<code><img height="35" src="https://github.com/AI-Ahmed/AI-Ahmed/assets/72295771/5ae8848a-9d74-41c6-99ef-41c6d56166e7"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+<code><img height="28" src="https://github.com/AI-Ahmed/AI-Ahmed/assets/72295771/003881be-1c4c-402f-b73f-7a15fea5cd3b"></code>
 
+---
+
+# Certificates
 [![$DellEMC^2$ Data Scientist](https://img.shields.io/badge/DellEMC%20DS-Associate-green)](https://www.certmetrics.com/dell/public/verification.aspx?mainContent_txtVerificationCode=4TRDHEL6JER4195S)
 [![IBM Data Scientist](https://img.shields.io/badge/IBM%20DS-Professional-blue)](https://credentials.edx.org/credentials/7a4b5b0484054419832be81568f80ce8/)
 [![Google Cloud professional ML](https://img.shields.io/badge/GCP%20ML-Professional-blue)](https://googlecourses.qwiklabs.com/public_profiles/9dab7717-aa8c-4e17-8d31-0580a4c33efd)
 
-
 [![Data Science proficiency](https://img.shields.io/badge/Data%20Science-Professional-red)](https://credentials.edx.org/credentials/7a4b5b0484054419832be81568f80ce8/)
-![ML Proficiency](https://img.shields.io/badge/Machine%20Learning-Professional-red)
-![DL Proficiency](https://img.shields.io/badge/Deep%20Learning-Professional-red)
-![RL Proficiency](https://img.shields.io/badge/Reinforcement%20Learning-Professional-red)
 
-
-![GCP Proficiency](https://img.shields.io/badge/GCP-Intermediate-GREEN)
-![Shell Proficiency](https://img.shields.io/badge/Shell-Intermediate-yellow)
-
-## Who Am I?
-I'm a AI Engineer who's working on real-world problems with an orchestrated, fully designed, and scalable machine learning system to help better flexible life.
-
-Also, I am Professional Machine learning Engineer from Google Cloud & Certified Data Scientist from IBM – working for bringing the industrial experience of the best two companies in AI & ML. These certificates help me have a vision and better decisions in building and orchestrating ML systems.
-
-- 🔭 I’m currently working on Control Theory and decision making in AI.
-- 🌱 I’m currently learning more about Statistics & Computational thinking & System Design.
-- 💬 Ask me about AI ethics and how to start building your vision into a machine.
-- 📫 How to reach me: Join my journey on [LinkedIn](https://www.linkedin.com/in/ai-ahmed/).
-- ⚡ Fun fact: 
-  * Who doesn't like Ironman!! If you do, you must like how Jarvis corporate everything 😄.
-  * That's why – our generation like to have something like Jarvis. 
-  * The Fun fact here, Jarvis now is not a fictional character – it is now a fact.
-  <p align="center"><img src="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/b0/JuARaVeInSy.png/revision/latest/scale-to-width-down/250?cb=20120722164138" /></p>
-- ⚙️ Wanna have a look: [My Resume](https://github.com/AI-Ahmed/AI-Ahmed/blob/main/Resume.pdf)
-- 📚 Kaggle Profile: [My Kaggle Profile](https://www.kaggle.com/dsxavier)
 ---
 ## **Github Stats**
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=AI-Ahmed&show_icons=true&theme=tokyonight)
 
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=AI-Ahmed&theme=material-palenight&hide_border=false" alt="AI-Ahmed" /></p>
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AI-Ahmed&layout=compact&text_color=ffffff&icon_color=FF6C00&theme=tokyonight&langs_count=10)
 
+![](https://github-profile-trophy.vercel.app/?username=AI-Ahmed&theme=dracula&no-frame=true&row=1&&margin-w=20&no-bg=true)
+
 ---
-## My Experience
+## Experience
 
-- Have Solid knowledge about how to build pipelines as Data Scientist (starting from data cleaning, going throw exploratory data analysis EDA, until export model).
+- 📊 **Unleashing the Power of Data**: Leveraging advanced mathematical models to decode complex financial datasets and unlock hidden patterns.
+  
+- 🚀 **Harnessing the Potential of Machine Learning**: Applying cutting-edge ML algorithms to optimize trading strategies, elevating performance and profitability.
 
-- How to build a pipeline as Machine Learning Engineer (starting from data pre-processing, feature engineering, hyper-parameter tuning and
-cross-validation, until serving the model) using Tools like TFX, Kubeflow, Apache Beams, and Airflow.
+- 🔮 **Predictive Insights for Tomorrow's Markets**: Crafting predictive models that forecast market trends and empower informed decision-making in real-time.
 
-- How to convert business requirements into CI.
+- 🎯 **Strategic Planning with Precision**: Formulating resilient strategies grounded in rigorous analysis and adaptive to dynamic market conditions.
 
-- Capable build advanced and explainable models that predict and forecast outcomes.
+- 💡 **Innovative Solutions for Financial Challenges**: Designing creative solutions that address the evolving finance landscape with agility and foresight.
 
-- Capable build advanced and explainable models that predict and forecast outcomes using orchestration artefacts for CT.
+- 📈 **Charting the Course of Success**: Utilizing visualizations and charts as powerful tools to communicate insights and guide strategic actions.
 
-- Capable of framing & architecting any AI problem.
+- 🎨 **Merging Creativity with Technology**: Infusing creativity into technological solutions to solve complex challenges and drive meaningful outcomes.
 
-- AI code is 5% of any project. Hence, all the focus will be on monitor & measure for optimizing the performance of our model.
+- 🔢 **A Symphony of Mathematics and Machine Learning**: Harmonizing mathematical principles with ML techniques to create robust models with predictive prowess.
 
-- The deployment process will not be efficient if there is no solid research behind it. So, I'm capable create a sophisticated technical report that emphasizes the workflow behind the development process.
+- 📝 **Empowering Decision-Makers with Actionable Insights**: Providing decision-makers with actionable insights derived from data-driven analyses and predictive modeling.
 
-- Have the ability to deliver actionable business insights and incubate innovative ways of solving problems and founding solutions.
+- 🌟 **Shaping the Future of Finance**: Contributing to advancing finance by applying AI, machine learning, and innovative quantitative techniques.
 
-- The main goal is to finish what you start: "clients do not relate to reasons, they relate to actions".
+---
 
-- Discipline, persistence, well-adapted are keys for a successful person; that's why – I make them my big picture.
-
-- Communication is not always the best thing, but being convenient is the best, especially with the stakeholders.
+## Get in Touch
+- 📫 Connect with me on [LinkedIn](), [Discord](
+- 
+- 📚 Check out my [Kaggle Profile](https://www.kaggle.com/dsxavier)
