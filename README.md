@@ -61,28 +61,12 @@ I'm an enthusiastic AI and Quantitative Researcher passionate about implementing
 ## Experience
 
 - 📊 **Unleashing the Power of Data**: Leveraging advanced mathematical models to decode complex financial datasets and unlock hidden patterns.
-  
 - 🚀 **Harnessing the Potential of Machine Learning**: Applying cutting-edge ML algorithms to optimize trading strategies, elevating performance and profitability.
-
 - 🔮 **Predictive Insights for Tomorrow's Markets**: Crafting predictive models that forecast market trends and empower informed decision-making in real-time.
-
 - 🎯 **Strategic Planning with Precision**: Formulating resilient strategies grounded in rigorous analysis and adaptive to dynamic market conditions.
-
 - 💡 **Innovative Solutions for Financial Challenges**: Designing creative solutions that address the evolving finance landscape with agility and foresight.
-
 - 📈 **Charting the Course of Success**: Utilizing visualizations and charts as powerful tools to communicate insights and guide strategic actions.
-
 - 🎨 **Merging Creativity with Technology**: Infusing creativity into technological solutions to solve complex challenges and drive meaningful outcomes.
-
 - 🔢 **A Symphony of Mathematics and Machine Learning**: Harmonizing mathematical principles with ML techniques to create robust models with predictive prowess.
-
 - 📝 **Empowering Decision-Makers with Actionable Insights**: Providing decision-makers with actionable insights derived from data-driven analyses and predictive modeling.
-
 - 🌟 **Shaping the Future of Finance**: Contributing to advancing finance by applying AI, machine learning, and innovative quantitative techniques.
-
----
-
-## Get in Touch
-- 📫 Connect with me on [LinkedIn](), [Discord](
-- 
-- 📚 Check out my [Kaggle Profile](https://www.kaggle.com/dsxavier)
