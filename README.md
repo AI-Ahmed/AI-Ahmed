@@ -23,7 +23,7 @@ I'm an enthusiastic AI and Quantitative Researcher passionate about implementing
 
 ---
 
-## Skills
+## Tools & Skills
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="40"/></code>
@@ -35,6 +35,9 @@ I'm an enthusiastic AI and Quantitative Researcher passionate about implementing
 <code><img height="35" src="https://github.com/AI-Ahmed/AI-Ahmed/assets/72295771/5ae8848a-9d74-41c6-99ef-41c6d56166e7"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="28" src="https://github.com/AI-Ahmed/AI-Ahmed/assets/72295771/003881be-1c4c-402f-b73f-7a15fea5cd3b"></code>
+
+### My Best IDE(s)
+<code><img height="40" src="https://github.com/AI-Ahmed/AI-Ahmed/assets/72295771/7be548d5-77f0-40da-a466-68eeca9b2b63"></code>
 
 ---
 
