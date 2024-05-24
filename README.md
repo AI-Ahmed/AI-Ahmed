@@ -5,7 +5,7 @@
 
 [![Linkedin: AI-Ahmed](https://img.shields.io/badge/-Ahmed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ai-ahmed/)](https://www.linkedin.com/in/ai-ahmed/)
 [![Discord: AI-Ahmed](https://img.shields.io/badge/-Ahmed-black?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/users/AI-Ahmed#7279)](https://discord.com/users/AI-Ahmed#7279)
-[![Discord: AI-Ahmed](https://img.shields.io/badge/-Ahmed-blue?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/dsxavier)](https://www.kaggle.com/dsxavier)
+[![Discord: AI-Ahmed](https://img.shields.io/badge/-dsxavier-blue?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/dsxavier)](https://www.kaggle.com/dsxavier)
 
 <a href="https://github.com/AI-Ahmed/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=14473118&textfill=black&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A">
