@@ -39,6 +39,7 @@ I'm an enthusiastic AI and Quantitative Researcher passionate about implementing
 
 ### My Best IDE(s)
 <code><img height="40" src="https://github.com/AI-Ahmed/AI-Ahmed/assets/72295771/7be548d5-77f0-40da-a466-68eeca9b2b63"></code>
+<code><img height="40" src="https://github.com/AI-Ahmed/AI-Ahmed/assets/72295771/54a8a53b-3d02-451a-8974-b26639f5c1da"></code>
 
 ---
 
