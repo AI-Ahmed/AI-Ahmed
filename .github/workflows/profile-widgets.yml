@@ -10,7 +10,7 @@ jobs:
   # ─────────────────────────────────────────────────────────────────
   # JOB 1: Contribution Snake
   # Output: branch "output" → github-snake.svg + github-snake-dark.svg
-  # README usage:
+  # README embed:
   #   src="https://raw.githubusercontent.com/AI-Ahmed/AI-Ahmed/output/github-snake.svg"
   # ─────────────────────────────────────────────────────────────────
   snake:
@@ -35,7 +35,7 @@ jobs:
   # ─────────────────────────────────────────────────────────────────
   # JOB 2: 3D Contribution Globe
   # Output: main branch → profile-3d-contrib/profile-night-rainbow.svg
-  # README usage:
+  # README embed:
   #   src="https://raw.githubusercontent.com/AI-Ahmed/AI-Ahmed/main/profile-3d-contrib/profile-night-rainbow.svg"
   # ─────────────────────────────────────────────────────────────────
   globe:
@@ -44,18 +44,24 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # Write the settings JSON to a file first — SETTING_JSON expects a file path
+      - name: Write 3D settings
+        run: |
+          cat > /tmp/3d-settings.json << 'EOF'
+          {
+            "githubUserName": "AI-Ahmed",
+            "startFrontView": true,
+            "type": "normal",
+            "backgroundColor": "#0d1117",
+            "foregroundColor": "#00d4ff"
+          }
+          EOF
+
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: AI-Ahmed
-          SETTING_JSON: |
-            {
-              "githubUserName": "AI-Ahmed",
-              "startFrontView": true,
-              "type": "normal",
-              "backgroundColor": "#0d1117",
-              "foregroundColor": "#00d4ff"
-            }
+          SETTING_JSON: /tmp/3d-settings.json
 
       - name: Commit 3D graph
         run: |
