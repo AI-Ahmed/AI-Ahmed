@@ -86,7 +86,8 @@ jobs:
 
       - name: Generate trophy SVG
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # render_svg.ts reads TROPHY_TOKEN — not GITHUB_TOKEN
+          TROPHY_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           mkdir -p assets
           cd /tmp/trophy
@@ -99,7 +100,6 @@ jobs:
             AI-Ahmed \
             ${{ github.workspace }}/assets \
             tokyonight
-          # render_svg.ts writes trophy.svg into the OUTPUT_DIR
           ls -la ${{ github.workspace }}/assets/
 
       - name: Commit trophy SVG
