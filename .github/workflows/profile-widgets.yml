@@ -86,11 +86,13 @@ jobs:
 
       - name: Generate trophy SVG
         env:
-          # render_svg.ts reads TROPHY_TOKEN — not GITHUB_TOKEN
+          # render_svg.ts reads from a .env file: GITHUB_TOKEN1=<token>
           TROPHY_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          mkdir -p assets
+          mkdir -p ${{ github.workspace }}/assets
           cd /tmp/trophy
+          # Write the token into the .env file that render_svg.ts reads
+          echo "GITHUB_TOKEN1=${TROPHY_TOKEN}" > .env
           deno run \
             --allow-net \
             --allow-env \
