@@ -93,6 +93,7 @@ jobs:
           cd /tmp/trophy
           # Write the token into the .env file that render_svg.ts reads
           echo "GITHUB_TOKEN1=${TROPHY_TOKEN}" > .env
+          # Third arg is the OUTPUT FILE PATH, not a directory
           deno run \
             --allow-net \
             --allow-env \
@@ -100,7 +101,7 @@ jobs:
             --allow-write \
             ./render_svg.ts \
             AI-Ahmed \
-            ${{ github.workspace }}/assets \
+            ${{ github.workspace }}/assets/trophy.svg \
             tokyonight
           ls -la ${{ github.workspace }}/assets/
 
