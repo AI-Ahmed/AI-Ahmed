@@ -60,8 +60,9 @@ jobs:
 
 
   # ─────────────────────────────────────────────────────────────────
-  # JOB 3: Trophy SVG (self-hosted, no Vercel dependency)
-  # Uses the official action branch that renders the SVG locally.
+  # JOB 3: Trophy SVG (self-hosted via Deno, no Vercel dependency)
+  # Clones the official ryo-ma/github-profile-trophy repo and runs
+  # its render_svg.ts script directly with Deno.
   # Output: main branch → assets/trophy.svg
   # README embed:
   #   src="https://raw.githubusercontent.com/AI-Ahmed/AI-Ahmed/main/assets/trophy.svg"
@@ -69,21 +70,42 @@ jobs:
   trophy:
     name: 🏆 Trophy SVG
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate trophy SVG
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+      - name: Setup Deno
+        uses: denoland/setup-deno@v2
         with:
-          username: AI-Ahmed
-          output_path: assets/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          deno-version: v2.x
+
+      - name: Clone trophy renderer
+        run: |
+          git clone --depth 1 https://github.com/ryo-ma/github-profile-trophy.git /tmp/trophy
+
+      - name: Generate trophy SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir -p assets
+          cd /tmp/trophy
+          deno run \
+            --allow-net \
+            --allow-env \
+            --allow-read \
+            --allow-write \
+            ./render_svg.ts \
+            AI-Ahmed \
+            ${{ github.workspace }}/assets \
+            tokyonight
+          # render_svg.ts writes trophy.svg into the OUTPUT_DIR
+          ls -la ${{ github.workspace }}/assets/
 
       - name: Commit trophy SVG
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          mkdir -p assets
           git add assets/trophy.svg
-          git commit -m "chore: update trophy SVG [skip ci]" || exit 0
+          git diff --staged --quiet || git commit -m "chore: update trophy SVG [skip ci]"
           git push
