@@ -34,6 +34,9 @@ jobs:
 
   # ─────────────────────────────────────────────────────────────────
   # JOB 2: 3D Contribution Globe
+  # No custom SETTING_JSON — uses the action's built-in night-rainbow
+  # theme which avoids the foregroundColor parsing bug in 0.7.1.
+  #
   # Output: main branch → profile-3d-contrib/profile-night-rainbow.svg
   # README embed:
   #   src="https://raw.githubusercontent.com/AI-Ahmed/AI-Ahmed/main/profile-3d-contrib/profile-night-rainbow.svg"
@@ -44,24 +47,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # Write the settings JSON to a file first — SETTING_JSON expects a file path
-      - name: Write 3D settings
-        run: |
-          cat > /tmp/3d-settings.json << 'EOF'
-          {
-            "githubUserName": "AI-Ahmed",
-            "startFrontView": true,
-            "type": "normal",
-            "backgroundColor": "#0d1117",
-            "foregroundColor": "#00d4ff"
-          }
-          EOF
-
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: AI-Ahmed
-          SETTING_JSON: /tmp/3d-settings.json
+          # No SETTING_JSON — defaults produce profile-night-rainbow.svg
+          # among several variants; we embed only the night-rainbow one.
 
       - name: Commit 3D graph
         run: |
