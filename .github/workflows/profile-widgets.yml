@@ -34,9 +34,7 @@ jobs:
 
   # ─────────────────────────────────────────────────────────────────
   # JOB 2: 3D Contribution Globe
-  # No custom SETTING_JSON — uses the action's built-in night-rainbow
-  # theme which avoids the foregroundColor parsing bug in 0.7.1.
-  #
+  # No custom SETTING_JSON — avoids foregroundColor parsing bug in 0.7.1.
   # Output: main branch → profile-3d-contrib/profile-night-rainbow.svg
   # README embed:
   #   src="https://raw.githubusercontent.com/AI-Ahmed/AI-Ahmed/main/profile-3d-contrib/profile-night-rainbow.svg"
@@ -51,8 +49,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: AI-Ahmed
-          # No SETTING_JSON — defaults produce profile-night-rainbow.svg
-          # among several variants; we embed only the night-rainbow one.
 
       - name: Commit 3D graph
         run: |
@@ -60,4 +56,34 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add profile-3d-contrib/
           git commit -m "chore: update 3D contribution graph [skip ci]" || exit 0
+          git push
+
+
+  # ─────────────────────────────────────────────────────────────────
+  # JOB 3: Trophy SVG (self-hosted, no Vercel dependency)
+  # Uses the official action branch that renders the SVG locally.
+  # Output: main branch → assets/trophy.svg
+  # README embed:
+  #   src="https://raw.githubusercontent.com/AI-Ahmed/AI-Ahmed/main/assets/trophy.svg"
+  # ─────────────────────────────────────────────────────────────────
+  trophy:
+    name: 🏆 Trophy SVG
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate trophy SVG
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: AI-Ahmed
+          output_path: assets/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit trophy SVG
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          mkdir -p assets
+          git add assets/trophy.svg
+          git commit -m "chore: update trophy SVG [skip ci]" || exit 0
           git push
